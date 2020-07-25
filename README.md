@@ -6,6 +6,8 @@
 [![Twitter Badge](https://img.shields.io/badge/-@samujjwaal-00acee?style=flat&logo=Twitter&logoColor=white)](https://twitter.com/intent/follow?screen_name=samujjwaal "Follow on Twitter")
 [![Messenger Badge](https://img.shields.io/badge/-Messenger-0078FF?style=flat&logo=Messenger&logoColor=white)](https://m.me/samujjwaal "Connect on Facebook")
 
+<a href="https://samujjwaal.tech/"><img alt="Robot logo" src="etc/python.png" align="right" height="250" /></a>
+
 I am a 2nd-year Graduate Student at The University of Illinois at Chicago, pursuing a Masters in Computer Science, who is passionate about Data Science :bar_chart:, Pythonic programming :snake:, and open source :octocat:. I love to learn and contribute in any and every possible way.
 
 - 🌱 I’m currently learning [Machine Learning](https://www.coursera.org/learn/machine-learning) and Functional programming
@@ -13,10 +15,12 @@ I am a 2nd-year Graduate Student at The University of Illinois at Chicago, pursu
 - 💬 Talk to me about if Earth actually is flat, would headlights work at light speed, and everything in between
 - 📫 How to reach me: Use any of the [badges](#hi-there-im-samujjwaal-) above
 - 😄 Pronouns: [He/Him](https://www.mypronouns.org/he-him)
-- ⚡ Fun fact: Everything that has been or could be written/said already exists in the [Library of Babel](https://libraryofbabel.info/) :space_invader:
+- 👾 Fun fact: Everything that has been or could be written/said already exists in the [Library of Babel](https://libraryofbabel.info/)
 
-## Some of my Github Stats
-![My Github Stats](https://github-readme-stats.vercel.app/api?username=samujjwaal&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)
+## Some of my Github Public Stats
+<a href="https://samujjwaal.tech/"><img alt="Robot logo" src="etc/coffee.png" align="right" height="275" /></a>
+
+[![My Github Stats](https://github-readme-stats.vercel.app/api?username=samujjwaal&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)](https://github.com/samujjwaal)
 
 ![Profile Views](https://komarev.com/ghpvc/?username=samujjwaal&color=blue)
 
