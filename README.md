@@ -6,7 +6,7 @@
 [![Twitter Badge](https://img.shields.io/badge/-@samujjwaal-00acee?style=flat&logo=Twitter&logoColor=white)](https://twitter.com/intent/follow?screen_name=samujjwaal "Follow on Twitter")
 [![Messenger Badge](https://img.shields.io/badge/-Messenger-0078FF?style=flat&logo=Messenger&logoColor=white)](https://m.me/samujjwaal "Connect on Facebook")
 
-<a href="https://samujjwaal.tech/"><img src="https://github.com/samujjwaal/samujjwaal/raw/master/etc/python.png" align="right" height="250" /></a>
+<a href="https://samujjwaal.tech/"><img src="https://github.com/samujjwaal/samujjwaal/raw/master/etc/python.png" align="right" height="225" /></a>
 
 I am a 2nd-year Graduate Student at The University of Illinois at Chicago, pursuing a Masters in Computer Science, who is passionate about Data Science :bar_chart:, Pythonic programming :snake:, and open source :octocat:. I love to learn and contribute in any and every possible way.
 
