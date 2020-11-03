@@ -25,7 +25,6 @@ I am a 2nd-year Graduate Student at The University of Illinois at Chicago, pursu
   [![My Github Stats](https://github-readme-stats.vercel.app/api?username=samujjwaal&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)](https://github.com/samujjwaal)
 
   ![Profile Views](https://komarev.com/ghpvc/?username=samujjwaal&color=blue)
-  
   ----
   
 </details>
@@ -40,7 +39,6 @@ I am a 2nd-year Graduate Student at The University of Illinois at Chicago, pursu
 [![Spotify Badge](https://img.shields.io/badge/-Spotify-1DB954?style=flat&logo=Spotify&logoColor=white)](https://open.spotify.com/user/22ydzsykc57ailqsqbn4ycwsq "My Spotify playlists")
 [![YouTube Badge](https://img.shields.io/badge/-YouTube-FF0000?style=flat&logo=YouTube&logoColor=white)](https://www.youtube.com/SamujjwaalDeyJEDI/playlists "My YouTube playlists")
 [![Reddit Badge](https://img.shields.io/badge/-u/daftdey-FF4500?style=flat&logo=Reddit&logoColor=white)](https://www.reddit.com/user/daftdey/ "Find on Reddit")
-
 ----
 
 </details>
