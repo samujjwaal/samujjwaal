@@ -30,7 +30,7 @@ I am a 2nd-year Graduate Student at The University of Illinois at Chicago, pursu
 <details>
   <summary>Find me around the web :globe_with_meridians:</summary>
   
-  <a href="https://samujjwaal.me/"><img src="https://github.com/samujjwaal/samujjwaal/raw/master/etc/think.png" align="right" height="200" /></a>
+  <a href="https://samujjwaal.me/"><img src="https://github.com/samujjwaal/samujjwaal/raw/master/etc/think.png" align="right" height="150" /></a>
   
 [![DEV Badge](https://img.shields.io/badge/-samujjwaal-0A0A0A?style=flat&logo=dev.to&logoColor=white)](https://dev.to/samujjwaal)
 [![StackOverflow Badge](https://img.shields.io/badge/-daftdey-FE7A16?style=flat&logo=Stack%20Overflow&logoColor=white&)](https://stackoverflow.com/users/12843322/daftdey?tab=profile)
